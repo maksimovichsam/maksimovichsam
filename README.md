@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @maksimovichsam
+- 👀 I’m interested in deep learning.
+- 🌱 I’m currently learning deep learning.
+- 💞️ I’m looking to collaborate on deep learning.
+- 📫 How to reach me maksimovich.sam@gmail.com
